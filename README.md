@@ -1,5 +1,12 @@
 # GTx-CSE-6040-Computing-for-Data-Analysis
-Module 0: Fundamentals.
+
+This course is a hands-on introduction to programming techniques relevant to data analysis and machine learning. Programming exercises use Python and SQL. It assumes some prior programming experience (not necessarily in Python) but asks you to review and extend that experience in the context of data analysis.
+
+You will build “from scratch” the essential components of a data analysis pipeline: collection, preprocessing, storage, analysis, and visualization. You will see several examples of high-level data analysis questions, concepts and techniques for formalizing those questions into mathematical or computational tasks, and methods for translating those tasks into code. Beyond programming and best practices, you’ll learn elementary data processing algorithms, notions of program correctness and efficiency, and numerical methods for linear algebra and mathematical optimization.
+
+The underlying philosophy of this course is that you’ll learn the material best by actively doing. Therefore, you should make an effort to complete all assignments, including any ungraded (“optional”) parts, and go a bit beyond on your own.
+
+##### Module 0: Fundamentals.
 
  - Topic 0: Course and co-developer intros
  - Topic 1: Python bootcamp review + intro to Jupyter
@@ -10,7 +17,7 @@ Module 0: Fundamentals.
  - Topic 4: Representing numbers 
       - floating-point arithmetic, numerical analysis
 
-Module 1: Representing, transforming, and visualizing data.
+##### Module 1: Representing, transforming, and visualizing data.
 
  - Topic 5: Preprocessing unstructured data 
       - Strings and regular expressions
@@ -22,7 +29,7 @@ Module 1: Representing, transforming, and visualizing data.
       - Seaborn, Bokeh
  - Topic 9: Relational data (SQL)
 
-Module 2: The analysis of data.
+##### Module 2: The analysis of data.
 
  - Topic 10: Intro to numerical computing 
      - NumPy / SciPy
