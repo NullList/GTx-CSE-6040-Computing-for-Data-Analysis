@@ -1,8 +1,8 @@
 # GTx-CSE-6040-Computing-for-Data-Analysis
 Module 0: Fundamentals.
 
-Topic 0: Course and co-developer intros
-Topic 1: Python bootcamp review + intro to Jupyter
+ - Topic 0: Course and co-developer intros
+ - Topic 1: Python bootcamp review + intro to Jupyter
 Topic 2: Pairwise association mining
 Default dictionaries, asymptotic running time
 Topic 3: Mathematical preliminaries
